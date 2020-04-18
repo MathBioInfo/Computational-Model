@@ -1,0 +1,13 @@
+tend     50
+delt    .01
+nlys     1
+ninf     8
+nneut    0
+nben     1
+rs_total 1.5
+rl       1.5
+rd       0.045
+ri       1
+rt       0.005
+Ninit    5000
+
