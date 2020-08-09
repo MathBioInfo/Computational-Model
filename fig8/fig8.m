@@ -1,7 +1,6 @@
 clc, clear all
 clf;
 name = 'fig8_trans';
-name = sprintf('%s_noname_bw',name);
 figname = sprintf('x%s',name);
 set(gcf,'position', [647 505 1202 457]);
 set(gcf,'DefaultAxesLineWidth',2);
